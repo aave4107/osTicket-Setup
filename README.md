@@ -13,7 +13,7 @@ For John I assign him to a Support Department and role as View Only
 
 After creating the two osTicket Agents I then create an osTicket User to do this I go to the Agent Panel and then click users and then add a user and create Karen who is going to be the enduser who will send the ticket.
 
-Then I am going to create three different SLA's based on the level of problem the ticket is, SLAs stand for Service Level Agreements and are responsible for determing the expected service time response time for that specific issue.
+Then I am going to create three different SLA's based on the level of problem the ticket is, SLAs stand for Service Level Agreements and are responsible for determining the expected service time response time for that specific issue.
 
 ![Screenshot 2025-06-03 122720](https://github.com/user-attachments/assets/03690d9b-e9a4-4d7d-a6c4-b9376385f3fd)
 
